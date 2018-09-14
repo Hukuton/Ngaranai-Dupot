@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mamalia">
+        <item>ASU</item>
+        <item>USING</item>
+        <item>KAMBING</item>
+        <item>KARABAU</item>
+        <item>PALANUK</item>
+        <item>PAVUS</item>
+        <item>TAMBANG</item>
+        <item>VOGOK</item>
+        <item>BOSING</item>
+        <item>KAPARAZAN</item>
+        <item>BAKAS</item>
+        <item>BOVANG</item>
+        <item>PUNGIT</item>
+        <item>SAPI</item>
+        <item>TIKUS</item>
+        <item>KALASIU</item>
+        <item>GODINGAN</item>
+        <item>GOBUK</item>
+        <item>BULUKUN</item>
+        <item>KARA</item>
+        <item>MANGKAVOT</item>
+        <item>KOGIU</item>
+        <item>ONDOZUTUNG</item>
+        <item>MONDOU</item>
+        <item>BAKARO</item>
+        <item>SOPUAN</item>
+        <item>KAKANG</item>
+        <item>INANANSAD</item>
+        <item>GONSURI</item>
+        <item>PARAGASU</item>
+        <item>TUDU</item>
+        <item>MONTOBURUI</item>
+        <item>TOBERUG</item>
+        <item>TAMPAK</item>
+        <item>VUTUN</item>
+    </string-array>
+
+    <string-array name="ombolog">
+        <item>PUNAN</item>
+        <item>ANDAHA</item>
+        <item>PIZAK</item>
+        <item>PIRIT</item>
+        <item>BUBUT</item>
+        <item>KONIU</item>
+        <item>KURUVAK</item>
+        <item>GAMBALAK</item>
+        <item>ITIK</item>
+        <item>PUVOK</item>
+        <item>KANDAVAI</item>
+        <item>SINANGKIL</item>
+        <item>KOKOU</item>
+        <item>KOLUMPISAU</item>
+        <item>VODIT</item>
+        <item>ONGKUKUL</item>
+        <item>SUVIT</item>
+        <item>LIMBUKON</item>
+        <item>MONTIS</item>
+        <item>PIMPIKAU</item>
+        <item>AMPAK AMPAK</item>
+        <item>BANGKAHAK</item>
+        <item>URIPOS</item>
+        <item>SUNGANG</item>
+        <item>TUBOU</item>
+        <item>POMPOLIK</item>
+    </string-array>
+
+    <string-array name="sid_vaig">
+        <item>URONGOU</item>
+        <item>BARANGKAS</item>
+        <item>HIZU</item>
+        <item>PAHI</item>
+        <item>TUMANG</item>
+        <item>UNDUK UNDUK</item>
+        <item>BOLUNG</item>
+        <item>ANGKAHIS</item>
+        <item>BUNTOL</item>
+        <item>AGUM</item>
+        <item>BANARAN</item>
+        <item>KAYANGGAU</item>
+        <item>GOMUTAN</item>
+        <item>GIPA</item>
+        <item>DOLIMUSAN</item>
+        <item>DALUS</item>
+        <item>MANAMBING</item>
+        <item>ONGKUZU</item>
+        <item>DUBOL</item>
+        <item>RILUNG</item>
+        <item>SINGOL</item>
+        <item>KODOU KODOU</item>
+        <item>KOLIBUTAN</item>
+        <item>PONU PONU</item>
+        <item>IMAI IMAI</item>
+        <item>KABOU</item>
+        <item>LANOI</item>
+        <item>TIGOM</item>
+        <item>TOKINGKIG</item>
+        <item>BALAT</item>
+        <item>UNGKAMA RAHAT</item>
+        <item>UDTUL</item>
+    </string-array>
+
+    <string-array name="reptilia_amfibia">
+        <item>BUHAZO</item>
+        <item>LABI</item>
+        <item>PONJU</item>
+        <item>LOPUNG</item>
+        <item>POKOZOK</item>
+        <item>TOPIRIK</item>
+        <item>SONIT</item>
+        <item>TUGARANG</item>
+        <item>MANDAHATAN</item>
+        <item>KOROTITIK</item>
+        <item>VOZI VOZI</item>
+        <item>TOKI</item>
+        <item>ODU ODU</item>
+        <item>DORIVASAI</item>
+        <item>INGKUTAD KUTAD</item>
+        <item>PAKU GANDANG</item>
+        <item>SAPAI</item>
+        <item>BONGKOK</item>
+    </string-array>
+
+    <string-array name="opodok">
+        <item>ANGKALAMAAI</item>
+        <item>KOLIBAMBANG</item>
+        <item>TOGONOK</item>
+        <item>KILAU</item>
+        <item>ONTIRIK</item>
+        <item>KUZUNG</item>
+        <item>VUTOD</item>
+        <item>BORIGON</item>
+        <item>LIMBATA</item>
+        <item>ONINIPOT</item>
+        <item>PIKOT</item>
+        <item>TUKUNG</item>
+        <item>BOZON</item>
+        <item>IMBUVUNOS</item>
+        <item>BUTU</item>
+        <item>BOLINGAUNG</item>
+        <item>LAGA</item>
+        <item>LANGAU</item>
+        <item>LONTUGI</item>
+        <item>LONTENGAN</item>
+        <item>BONGING</item>
+        <item>SURUN</item>
+        <item>SOPUTAN</item>
+        <item>OMPODUS</item>
+        <item>UNGKAMA</item>
+        <item>MANU MANUK</item>
+        <item>INGKOKODUW</item>
+        <item>INGKUTUNG KUTUNG</item>
+        <item>KILAU PODOS</item>
+        <item>KUTU</item>
+        <item>POMOSUVON</item>
+        <item>PURANGIT</item>
+        <item>ANAI</item>
+        <item>RONGIT</item>
+        <item>TADTARU</item>
+        <item>LINGGUVANG</item>
+        <item>ONTIKUL TIKUL</item>
+        <item>LONGUT</item>
+        <item>TOVIL</item>
+        <item>LIPOS</item>
+        <item>TADTALAN</item>
+        <item>LIMATOK</item>
+        <item>GANTARALAN</item>
+        <item>OMPOLULUHU</item>
+        <item>GUMU KARAM</item>
+        <item>GIRAS</item>
+        <item>POGUSON</item>
+        <item>POTIZUKAN</item>
+        <item>TORINDAK</item>
+        <item>VONGKING</item>
+        <item>OMPURINAZOU</item>
+        <item>HATOD TAMBANG</item>
+        <item>GONSURI</item>
+        <item>AKI AKI</item>
+        <item>AHIS AHIS</item>
+        <item>SOLIVOHUK</item>
+        <item>ONTUMOL</item>
+        <item>INGIMAN GIMAN</item>
+        <item>MUNGKOPUT</item>
+        <item>ANAK VULAN</item>
+        <item>TII</item>
+        <item>LIPOS VAIG</item>
+        <item>TOMBILUK</item>
+    </string-array>
+
+    <integer-array name="mamaliaID">
+        <item>@drawable/ma_tasu</item>
+        <item>@drawable/ma_tusing</item>
+        <item>@drawable/ma_kambing</item>
+        <item>@drawable/ma_karabau</item>
+        <item>@drawable/ma_palanuk</item>
+        <item>@drawable/ma_pavus</item>
+        <item>@drawable/ma_tambang</item>
+        <item>@drawable/ma_vogok</item>
+        <item>@drawable/ma_bosing</item>
+        <item>@drawable/ma_kaparazan</item>
+        <item>@drawable/ma_bakas</item>
+        <item>@drawable/ma_bovang</item>
+        <item>@drawable/ma_pungit</item>
+        <item>@drawable/ma_sapi</item>
+        <item>@drawable/ma_tikus</item>
+        <item>@drawable/ma_kalasiu</item>
+        <item>@drawable/ma_godingan</item>
+        <item>@drawable/ma_gobuk</item>
+        <item>@drawable/ma_bulukun</item>
+        <item>@drawable/ma_kara</item>
+        <item>@drawable/ma_mangkavot</item>
+        <item>@drawable/ma_kogiu</item>
+        <item>@drawable/ma_ondozutung</item>
+        <item>@drawable/ma_mondou</item>
+        <item>@drawable/ma_bakaro</item>
+        <item>@drawable/ma_sopuan</item>
+        <item>@drawable/ma_kakang</item>
+        <item>@drawable/ma_inanansad</item>
+        <item>@drawable/ma_gonsuri</item>
+        <item>@drawable/ma_paragasu</item>
+        <item>@drawable/ma_tudu</item>
+        <item>@drawable/ma_montoburui</item>
+        <item>@drawable/ma_toberug</item>
+        <item>@drawable/ma_tampak</item>
+        <item>@drawable/ma_vutun</item>
+    </integer-array>
+
+    <integer-array name="ombologID">
+        <item>@drawable/om_manuk</item>
+        <item>@drawable/om_andaha</item>
+        <item>@drawable/om_pizak</item>
+        <item>@drawable/om_pirit</item>
+        <item>@drawable/om_bubut</item>
+        <item>@drawable/om_koniu</item>
+        <item>@drawable/om_kuruvak</item>
+        <item>@drawable/om_gambalak</item>
+        <item>@drawable/om_itik</item>
+        <item>@drawable/om_puvok</item>
+        <item>@drawable/om_kandavai</item>
+        <item>@drawable/om_sinangkil</item>
+        <item>@drawable/om_kokou</item>
+        <item>@drawable/om_kolumpisau</item>
+        <item>@drawable/om_vodit</item>
+        <item>@drawable/om_tongkukul</item>
+        <item>@drawable/om_suvit</item>
+        <item>@drawable/om_limbukon</item>
+        <item>@drawable/om_montis</item>
+        <item>@drawable/om_pimpikau</item>
+        <item>@drawable/om_ampak_ampak</item>
+        <item>@drawable/om_bangkahak</item>
+        <item>@drawable/om_uripos</item>
+        <item>@drawable/om_sungang</item>
+        <item>@drawable/om_tubou</item>
+        <item>@drawable/om_pompolik</item>
+    </integer-array>
+
+    <integer-array name="sid_vaigID">
+        <item>@drawable/sv_turongou</item>
+        <item>@drawable/sv_barangkas</item>
+        <item>@drawable/sv_hizu</item>
+        <item>@drawable/sv_pahi</item>
+        <item>@drawable/sv_tumang</item>
+        <item>@drawable/sv_unduk_unduk</item>
+        <item>@drawable/sv_bolung</item>
+        <item>@drawable/sv_angkahis</item>
+        <item>@drawable/sv_buntol</item>
+        <item>@drawable/sv_agum</item>
+        <item>@drawable/sv_banaran</item>
+        <item>@drawable/sv_kayanggau</item>
+        <item>@drawable/sv_gomutan</item>
+        <item>@drawable/sv_gipa</item>
+        <item>@drawable/sv_dolimusan</item>
+        <item>@drawable/sv_dalus</item>
+        <item>@drawable/sv_manambing</item>
+        <item>@drawable/sv_ongkuzu</item>
+        <item>@drawable/sv_dubol</item>
+        <item>@drawable/sv_rilung</item>
+        <item>@drawable/sv_singol</item>
+        <item>@drawable/sv_kodou_kodou</item>
+        <item>@drawable/sv_kolibutan</item>
+        <item>@drawable/sv_ponu_ponu</item>
+        <item>@drawable/sv_imai_imai</item>
+        <item>@drawable/sv_kabou</item>
+        <item>@drawable/sv_lanoi</item>
+        <item>@drawable/sv_tigom</item>
+        <item>@drawable/sv_tokingkig</item>
+        <item>@drawable/sv_balat</item>
+        <item>@drawable/sv_tungkama_rahat</item>
+        <item>@drawable/sv_tudtul</item>
+    </integer-array>
+
+    <integer-array name="reptilia_amfibiaID">
+        <item>@drawable/ra_buhazo</item>
+        <item>@drawable/ra_labi</item>
+        <item>@drawable/ra_ponju</item>
+        <item>@drawable/ra_lopung</item>
+        <item>@drawable/ra_pokozok</item>
+        <item>@drawable/ra_topirik</item>
+        <item>@drawable/ra_sonit</item>
+        <item>@drawable/ra_tugarang</item>
+        <item>@drawable/ra_mandahatan</item>
+        <item>@drawable/ra_korotitik</item>
+        <item>@drawable/ra_vozi_vozi</item>
+        <item>@drawable/ra_toki</item>
+        <item>@drawable/ra_odu_odu</item>
+        <item>@drawable/ra_dorivasai</item>
+        <item>@drawable/ra_ingkutad_kutad</item>
+        <item>@drawable/ra_paku_gandang</item>
+        <item>@drawable/ra_sapai</item>
+        <item>@drawable/ra_bongkok</item>
+    </integer-array>
+
+    <integer-array name="opodokID">
+        <item>@drawable/op_angkalamaai</item>
+        <item>@drawable/op_kolimbambang</item>
+        <item>@drawable/op_togonok</item>
+        <item>@drawable/op_kilau</item>
+        <item>@drawable/op_ontirik</item>
+        <item>@drawable/op_kuzung</item>
+        <item>@drawable/op_vutod</item>
+        <item>@drawable/op_borigon</item>
+        <item>@drawable/op_limbata</item>
+        <item>@drawable/op_oninipot</item>
+        <item>@drawable/op_pikot</item>
+        <item>@drawable/op_tukung</item>
+        <item>@drawable/op_bozon</item>
+        <item>@drawable/op_imbuvunos</item>
+        <item>@drawable/op_butu</item>
+        <item>@drawable/op_bolingaung</item>
+        <item>@drawable/op_laga</item>
+        <item>@drawable/op_langau</item>
+        <item>@drawable/op_lontugi</item>
+        <item>@drawable/op_lontengan</item>
+        <item>@drawable/op_bonging</item>
+        <item>@drawable/op_surun</item>
+        <item>@drawable/op_soputan</item>
+        <item>@drawable/op_ompodus</item>
+        <item>@drawable/op_tungkama</item>
+        <item>@drawable/op_manu_manuk</item>
+        <item>@drawable/op_ingkokoduw</item>
+        <item>@drawable/op_ingkutung_kutung</item>
+        <item>@drawable/op_kilau_podos</item>
+        <item>@drawable/op_kutu</item>
+        <item>@drawable/op_pomosuvon</item>
+        <item>@drawable/op_purangit</item>
+        <item>@drawable/op_anai</item>
+        <item>@drawable/op_rongit</item>
+        <item>@drawable/op_tadtaru</item>
+        <item>@drawable/op_lingguvang</item>
+        <item>@drawable/op_ontikul_tikul</item>
+        <item>@drawable/op_longut</item>
+        <item>@drawable/op_tovil</item>
+        <item>@drawable/op_lipos</item>
+        <item>@drawable/op_tadtalan</item>
+        <item>@drawable/op_limatok</item>
+        <item>@drawable/op_gantaralan</item>
+        <item>@drawable/op_ompoluluhu</item>
+        <item>@drawable/op_gumu_karam</item>
+        <item>@drawable/op_giras</item>
+        <item>@drawable/op_poguson</item>
+        <item>@drawable/op_potizukan</item>
+        <item>@drawable/op_torindak</item>
+        <item>@drawable/op_vongking</item>
+        <item>@drawable/op_ompurinazou</item>
+        <item>@drawable/op_hatod_tambang</item>
+        <item>@drawable/op_gonsuri</item>
+        <item>@drawable/op_aki_aki</item>
+        <item>@drawable/op_ahis_ahis</item>
+        <item>@drawable/op_solivohuk</item>
+        <item>@drawable/op_ontumol</item>
+        <item>@drawable/op_ingiman_giman</item>
+        <item>@drawable/op_mungkoput</item>
+        <item>@drawable/op_anak_vulan</item>
+        <item>@drawable/op_tii</item>
+        <item>@drawable/op_lipos_vaig</item>
+        <item>@drawable/op_tombiluk</item>
+    </integer-array>
+
+    <!-- this one is for icon. image is small-->
+
+    <integer-array name="icMamaliaID">
+        <item>@mipmap/ma_tasu</item>
+        <item>@mipmap/ma_tusing</item>
+        <item>@mipmap/ma_kambing</item>
+        <item>@mipmap/ma_karabau</item>
+        <item>@mipmap/ma_palanuk</item>
+        <item>@mipmap/ma_pavus</item>
+        <item>@mipmap/ma_tambang</item>
+        <item>@mipmap/ma_vogok</item>
+        <item>@mipmap/ma_bosing</item>
+        <item>@mipmap/ma_kaparazan</item>
+        <item>@mipmap/ma_bakas</item>
+        <item>@mipmap/ma_bovang</item>
+        <item>@mipmap/ma_pungit</item>
+        <item>@mipmap/ma_sapi</item>
+        <item>@mipmap/ma_tikus</item>
+        <item>@mipmap/ma_kalasiu</item>
+        <item>@mipmap/ma_godingan</item>
+        <item>@mipmap/ma_gobuk</item>
+        <item>@mipmap/ma_bulukun</item>
+        <item>@mipmap/ma_kara</item>
+        <item>@mipmap/ma_mangkavot</item>
+        <item>@mipmap/ma_kogiu</item>
+        <item>@mipmap/ma_ondozutung</item>
+        <item>@mipmap/ma_mondou</item>
+        <item>@mipmap/ma_bakaro</item>
+        <item>@mipmap/ma_sopuan</item>
+        <item>@mipmap/ma_kakang</item>
+        <item>@mipmap/ma_inanansad</item>
+        <item>@mipmap/ma_gonsuri</item>
+        <item>@mipmap/ma_paragasu</item>
+        <item>@mipmap/ma_tudu</item>
+        <item>@mipmap/ma_montoburui</item>
+        <item>@mipmap/ma_toberug</item>
+        <item>@mipmap/ma_tampak</item>
+        <item>@mipmap/ma_vutun</item>
+    </integer-array>
+
+    <integer-array name="icOmbologID">
+        <item>@mipmap/om_manuk</item>
+        <item>@mipmap/om_andaha</item>
+        <item>@mipmap/om_pizak</item>
+        <item>@mipmap/om_pirit</item>
+        <item>@mipmap/om_bubut</item>
+        <item>@mipmap/om_koniu</item>
+        <item>@mipmap/om_kuruvak</item>
+        <item>@mipmap/om_gambalak</item>
+        <item>@mipmap/om_itik</item>
+        <item>@mipmap/om_puvok</item>
+        <item>@mipmap/om_kandavai</item>
+        <item>@mipmap/om_sinangkil</item>
+        <item>@mipmap/om_kokou</item>
+        <item>@mipmap/om_kolumpisau</item>
+        <item>@mipmap/om_vodit</item>
+        <item>@mipmap/om_tongkukul</item>
+        <item>@mipmap/om_suvit</item>
+        <item>@mipmap/om_limbukon</item>
+        <item>@mipmap/om_montis</item>
+        <item>@mipmap/om_pimpikau</item>
+        <item>@mipmap/om_ampak_ampak</item>
+        <item>@mipmap/om_bangkahak</item>
+        <item>@mipmap/om_uripos</item>
+        <item>@mipmap/om_sungang</item>
+        <item>@mipmap/om_tubou</item>
+        <item>@mipmap/om_pompolik</item>
+    </integer-array>
+
+    <integer-array name="icSid_vaigID">
+        <item>@mipmap/sv_turongou</item>
+        <item>@mipmap/sv_barangkas</item>
+        <item>@mipmap/sv_hizu</item>
+        <item>@mipmap/sv_pahi</item>
+        <item>@mipmap/sv_tumang</item>
+        <item>@mipmap/sv_unduk_unduk</item>
+        <item>@mipmap/sv_bolung</item>
+        <item>@mipmap/sv_angkahis</item>
+        <item>@mipmap/sv_buntol</item>
+        <item>@mipmap/sv_agum</item>
+        <item>@mipmap/sv_banaran</item>
+        <item>@mipmap/sv_kayanggau</item>
+        <item>@mipmap/sv_gomutan</item>
+        <item>@mipmap/sv_gipa</item>
+        <item>@mipmap/sv_dolimusan</item>
+        <item>@mipmap/sv_dalus</item>
+        <item>@mipmap/sv_manambing</item>
+        <item>@mipmap/sv_ongkuzu</item>
+        <item>@mipmap/sv_dubol</item>
+        <item>@mipmap/sv_rilung</item>
+        <item>@mipmap/sv_singol</item>
+        <item>@mipmap/sv_kodou_kodou</item>
+        <item>@mipmap/sv_kolibutan</item>
+        <item>@mipmap/sv_ponu_ponu</item>
+        <item>@mipmap/sv_imai_imai</item>
+        <item>@mipmap/sv_kabou</item>
+        <item>@mipmap/sv_lanoi</item>
+        <item>@mipmap/sv_tigom</item>
+        <item>@mipmap/sv_tokingkig</item>
+        <item>@mipmap/sv_balat</item>
+        <item>@mipmap/sv_tungkama_rahat</item>
+        <item>@mipmap/sv_tudtul</item>
+    </integer-array>
+
+    <integer-array name="icReptilia_amfibiaID">
+        <item>@mipmap/ra_buhazo</item>
+        <item>@mipmap/ra_labi</item>
+        <item>@mipmap/ra_ponju</item>
+        <item>@mipmap/ra_lopung</item>
+        <item>@mipmap/ra_pokozok</item>
+        <item>@mipmap/ra_topirik</item>
+        <item>@mipmap/ra_sonit</item>
+        <item>@mipmap/ra_tugarang</item>
+        <item>@mipmap/ra_mandahatan</item>
+        <item>@mipmap/ra_korotitik</item>
+        <item>@mipmap/ra_vozi_vozi</item>
+        <item>@mipmap/ra_toki</item>
+        <item>@mipmap/ra_odu_odu</item>
+        <item>@mipmap/ra_dorivasai</item>
+        <item>@mipmap/ra_ingkutad_kutad</item>
+        <item>@mipmap/ra_paku_gandang</item>
+        <item>@mipmap/ra_sapai</item>
+        <item>@mipmap/ra_bongkok</item>
+    </integer-array>
+
+    <integer-array name="icOpodokID">
+        <item>@mipmap/op_angkalamaai</item>
+        <item>@mipmap/op_kolimbambang</item>
+        <item>@mipmap/op_togonok</item>
+        <item>@mipmap/op_kilau</item>
+        <item>@mipmap/op_ontirik</item>
+        <item>@mipmap/op_kuzung</item>
+        <item>@mipmap/op_vutod</item>
+        <item>@mipmap/op_borigon</item>
+        <item>@mipmap/op_limbata</item>
+        <item>@mipmap/op_oninipot</item>
+        <item>@mipmap/op_pikot</item>
+        <item>@mipmap/op_tukung</item>
+        <item>@mipmap/op_bozon</item>
+        <item>@mipmap/op_imbuvunos</item>
+        <item>@mipmap/op_butu</item>
+        <item>@mipmap/op_bolingaung</item>
+        <item>@mipmap/op_laga</item>
+        <item>@mipmap/op_langau</item>
+        <item>@mipmap/op_lontugi</item>
+        <item>@mipmap/op_lontengan</item>
+        <item>@mipmap/op_bonging</item>
+        <item>@mipmap/op_surun</item>
+        <item>@mipmap/op_soputan</item>
+        <item>@mipmap/op_ompodus</item>
+        <item>@mipmap/op_tungkama</item>
+        <item>@mipmap/op_manu_manuk</item>
+        <item>@mipmap/op_ingkokoduw</item>
+        <item>@mipmap/op_ingkutung_kutung</item>
+        <item>@mipmap/op_kilau_podos</item>
+        <item>@mipmap/op_kutu</item>
+        <item>@mipmap/op_pomosuvon</item>
+        <item>@mipmap/op_purangit</item>
+        <item>@mipmap/op_anai</item>
+        <item>@mipmap/op_rongit</item>
+        <item>@mipmap/op_tadtaru</item>
+        <item>@mipmap/op_lingguvang</item>
+        <item>@mipmap/op_ontikul_tikul</item>
+        <item>@mipmap/op_longut</item>
+        <item>@mipmap/op_tovil</item>
+        <item>@mipmap/op_lipos</item>
+        <item>@mipmap/op_tadtalan</item>
+        <item>@mipmap/op_limatok</item>
+        <item>@mipmap/op_gantaralan</item>
+        <item>@mipmap/op_ompoluluhu</item>
+        <item>@mipmap/op_gumu_karam</item>
+        <item>@mipmap/op_giras</item>
+        <item>@mipmap/op_poguson</item>
+        <item>@mipmap/op_potizukan</item>
+        <item>@mipmap/op_torindak</item>
+        <item>@mipmap/op_vongking</item>
+        <item>@mipmap/op_ompurinazou</item>
+        <item>@mipmap/op_hatod_tambang</item>
+        <item>@mipmap/op_gonsuri</item>
+        <item>@mipmap/op_aki_aki</item>
+        <item>@mipmap/op_ahis_ahis</item>
+        <item>@mipmap/op_solivohuk</item>
+        <item>@mipmap/op_ontumol</item>
+        <item>@mipmap/op_ingiman_giman</item>
+        <item>@mipmap/op_mungkoput</item>
+        <item>@mipmap/op_anak_vulan</item>
+        <item>@mipmap/op_tii</item>
+        <item>@mipmap/op_lipos_vaig</item>
+        <item>@mipmap/op_tombiluk</item>
+    </integer-array>
+
+</resources>

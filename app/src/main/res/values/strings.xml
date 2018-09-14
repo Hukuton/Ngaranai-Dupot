@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ngaranai: Dupot</string>
+    <string name="action_settings">Settings</string>
+    <!-- test ads -->
+    <!-- <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_video">ca-app-pub-3940256099942544/5224354917</string>-->
+
+
+    <!--ca-app-pub-3185237114600646~6818167403-->
+    <string name="ad_id">ca-app-pub-3185237114600646/5029910189</string>
+    <string name="ad_id_video">ca-app-pub-3185237114600646/9841159832</string>
+</resources>

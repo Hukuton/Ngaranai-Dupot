@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorAccent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/guideline"
+        app:layout_constraintDimensionRatio="v,5:3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/bakaro" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.39" />
+
+    <TableLayout
+        android:id="@+id/tableLayout2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="v,10:7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline"
+        app:layout_constraintVertical_bias="0.110000014">
+
+        <com.hukuton.ngaranai.widget.AnswerButtons
+            android:id="@+id/answerButtons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+        <com.hukuton.ngaranai.widget.SelectionButtons
+            android:id="@+id/selectionButtons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+    </TableLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutFinalAns"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/tableLayout2"
+        app:layout_constraintEnd_toEndOf="@+id/tableLayout2"
+        app:layout_constraintStart_toStartOf="@+id/tableLayout2"
+        app:layout_constraintTop_toTopOf="@+id/tableLayout2">
+
+
+        <TextView
+            android:id="@+id/textViewFinalAns"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/show_gothic"
+            android:textColor="@color/black_grey"
+            android:textSize="@dimen/bigger"
+            android:text="TextView" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:srcCompat="@mipmap/ic_point" />
+
+            <TextView
+                android:id="@+id/textViewPointAdd"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/show_gothic"
+                android:textSize="@dimen/bigger"
+                android:textColor="@color/black_grey"
+                android:text="+1" />
+
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/imageButtonContinue"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:background="@drawable/continue_button_selector"
+            android:scaleType="fitCenter" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/buttonRemoveAll"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/button_remove_selector"
+        app:layout_constraintEnd_toEndOf="@+id/buttonRevealOneLetter"
+        app:layout_constraintStart_toStartOf="@+id/buttonRevealOneLetter"
+        app:layout_constraintTop_toBottomOf="@+id/buttonRevealOneLetter" />
+
+    <com.hukuton.ngaranai.widget.AnswerButton
+        android:id="@+id/buttonRevealOneLetter"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        android:text="?"
+        android:textSize="@dimen/big"
+        app:buttonColor="@color/wisteria"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        app:adSize="BANNER"
+        app:adUnitId="@string/ad_id"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</android.support.constraint.ConstraintLayout>

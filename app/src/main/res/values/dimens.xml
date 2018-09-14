@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="image_size">140dp</dimen>
+    <dimen name="padding_bottom">8dp</dimen>
+
+    <dimen name="small">16sp</dimen>
+    <dimen name="big">20sp</dimen>
+    <dimen name="bigger">40sp</dimen>
+
+    <dimen name="answer_button_width">28dp</dimen>
+    <dimen name="answer_button_height">35dp</dimen>
+
+</resources>

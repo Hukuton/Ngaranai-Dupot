@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    card_view:cardUseCompatPadding="true"
+    android:background="@color/colorPrimary"
+    card_view:cardCornerRadius="8dp"
+    android:layout_marginBottom="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/objectImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@color/colorPrimary"
+            android:src="@drawable/ma_tampak"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/objectName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:text="TAMPAK"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_below="@+id/objectImage"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/carrot"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
